@@ -17,3 +17,7 @@ https://whoami-faiz-2021.herokuapp.com/
     1. npm init
     2. npm install express body-parser nodemon
     3. run the project with node index.js or nodemon index.js
+    4. If you still cannot run it, try these **extra steps**:
+        1. Open Windows PowerShell with run as Administrator
+        2. Run this command: Set-ExecutionPolicy Unrestricted
+        3. run the project again with node index.js or nodemon index.js
